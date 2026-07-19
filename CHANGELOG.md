@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/CoCreate-app/CoCreate-cosmosdb/compare/v1.0.0...v1.1.0) (2026-07-19)
+
+
+### Features
+
+* Update README.md to reflect Cosmos DB integration and enhance documentation ([9f56a7a](https://github.com/CoCreate-app/CoCreate-cosmosdb/commit/9f56a7a868e3f316f42d999f367e1816bbc36b90))
+
 # 1.0.0 (2026-07-18)
 
 
