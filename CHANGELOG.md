@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/CoCreate-app/CoCreate-cosmosdb/compare/v1.1.0...v1.1.1) (2026-07-19)
+
+
+### Bug Fixes
+
+* set default branch to main ([9c7c5ff](https://github.com/CoCreate-app/CoCreate-cosmosdb/commit/9c7c5ff1b95e85208590b66f2e821f99d2220184))
+
 # [1.1.0](https://github.com/CoCreate-app/CoCreate-cosmosdb/compare/v1.0.0...v1.1.0) (2026-07-19)
 
 
