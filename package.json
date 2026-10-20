@@ -46,8 +46,7 @@
   "main": "./src/index.js",
   "exports": {
     ".": "./src/index.js",
-    "./dist": "./dist/cosmosdb.js",
-    "./installer": "./installer/cosmosdb.installer.js"
+    "./dist": "./dist/cosmosdb.js"
   },
   "devDependencies": {
     "@cocreate/webpack": "^1.9.0"
