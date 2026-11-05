@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/CoCreateJS/cosmosdb/compare/v2.0.0...v2.0.1) (2026-11-05)
+
+
+### Bug Fixes
+
+* upgrade CoCreate dependencies to v2 ([62a4977](https://github.com/CoCreateJS/cosmosdb/commit/62a49773ac03a7499cedbbc5c6fc7bd65e0a6a62))
+
 # [2.0.0](https://github.com/CoCreateJS/cosmosdb/compare/v1.1.1...v2.0.0) (2026-11-02)
 
 
